@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: kagross/2017-11-03-site
+repository: kagross/2017-11-03-Magical
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -32,9 +32,9 @@ swc_pages: "https://swcarpentry.github.io"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: https://github.com/kagross/2017-11-03-site/"
+workshop_repo: "https://kagross.github.io/2017-11-03-Magical/"
 workshop_site: "https://swcarpentry.github.io/workshop-template"
-training_site: "https://kagross.github.io/2017-11-03-site/"
+training_site: "https://kagross.github.io/2017-11-03-Magical/"
 swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
 
 # Surveys.
